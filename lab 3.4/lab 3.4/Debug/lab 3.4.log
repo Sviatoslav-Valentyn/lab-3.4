@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\lab 3.4\lab 3.4\Source.cpp(7,19): warning C4101: y0: неиспользованная локальная переменная
+C:\Users\Asus\Desktop\lab 3.4\lab 3.4\Source.cpp(7,12): warning C4101: x0: неиспользованная локальная переменная
+  lab 3.4.vcxproj -> C:\Users\Asus\Desktop\lab 3.4\Debug\lab 3.4.exe
